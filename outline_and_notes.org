@@ -1,0 +1,33 @@
+-*- mode: org; fill-column: 80 -*-
+
+* meta
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+** configuration
+#+TITLE: outline_and_notes
+#+AUTHOR: andrew blumberg
+#+AUTHOR: ben lee
+#+STARTUP: content indent hidestars logdone logrefile
+
+* outline
+** amazing outline starts here
+* notes
+** fantastic notes start here
+* questions
+** why are we writing this book?  what is its purpose?
+   + because the HoTT book is imprecise?
+   + because the HoTT book doesn't give enough history?
+
+** who is the audience?  what are the prerequisites?
+   + homotopy theorists?
+   + type theorists?
+   + math people generally?
+   + CS people generally?
+
+** what do we want to include, as far as introductory / foundational material?
+   + category theory?
+   + ETCS, set theoretic notions, universes, etc?
+   + topos theory?
+   + homotopy theory?
+   + lambda calculus?
