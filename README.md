@@ -1,0 +1,2 @@
+# types
+Categories and types
